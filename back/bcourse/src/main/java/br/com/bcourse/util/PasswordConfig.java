@@ -1,4 +1,4 @@
-package br.com.bcourse.config;
+package br.com.bcourse.util;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
